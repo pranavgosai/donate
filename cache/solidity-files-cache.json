@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\om\\Desktop\\donet\\contracts\\donet.sol": {
+      "lastModificationDate": 1675063175405,
+      "contentHash": "4d267c079b0b228720ef1ceaa3211d69",
+      "sourceName": "contracts/donet.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.7"
+      ],
+      "artifacts": [
+        "chai"
+      ]
+    }
+  }
+}
